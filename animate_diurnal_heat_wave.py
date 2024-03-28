@@ -78,10 +78,8 @@ if __name__ == '__main__':
   
   # Display legend
   axes.legend()
-  
-  
-  
-  
+
+  # Create animation
   animation_result = animation.FuncAnimation(fig=figure, func=update_figure, 
                                              frames=number_of_animation_frames, 
                                              interval=frame_delay_time)
