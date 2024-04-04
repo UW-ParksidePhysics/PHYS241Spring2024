@@ -1,4 +1,4 @@
-#!/bin sh
+#!/bin/sh
 
 # Get machine name
 machine_name=`defaults read /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName`
