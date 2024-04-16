@@ -52,28 +52,28 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1. It runs without error.
 #
 #
-# 2.
+# 2. The output is understandable if you know what you are doing. I have never used a code where you put an input
+# into the shell so you should inlude some comments that you have to do that. Includea description for the two
+#calculated items.
+# 3.The code is readable, but it is hard to understand how the code works if you don't know right from the start.
 #
 #
-# 3.
+# 4.The variabels are named well, I would reccomend putting an underscore inbetween words in the name.
 #
 #
-# 4.
+# 5.The names relate to the concepts they concretize well.
 #
 #
-# 5.
+# 6. I think the range of variables capture the program described.
 #
 #
-# 6.
+# 7.I think you should have more spacing inbetween function to clarify where you are moving on to another function.
 #
 #
-# 7.
-#
-#
-# 8.
+# 8. The graph looks good. I am not super knowledgeable on this topic in physics I would probably have more input.
 #
 #
 # 9.
