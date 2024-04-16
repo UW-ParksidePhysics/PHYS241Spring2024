@@ -211,30 +211,31 @@ if __name__ == "__main__":
 ########################################################################
 #
 # 1.
-#
+# Code ouputs ValueError: ValueError: x and y must have same first dimension, but have shapes (100000,) and (99999,). So, it seems like the arrays are in a difference of length of one. May just be a minor end error on a loop, whever they are created.
 #
 # 2.
-#
+# The explanations are a bit worrdy, the lines are quite lengthy, although I'm certainly aware that I am suposed to input numbers. I'd shorten a bit, with maybe a bit less background on the purpose/aim of the information each input.
 #
 # 3.
-#
+# Does not have 'bad' variable names, most seem readable and understandable. Comments seem a bit excesive, would be fine if there was better spacing amongst them. Currently, seeing and understanding all the actual code is rather clumsy. They make the program more bulky than it really is, less readable. Rather than multiple comments inside the functions, I think one comment above each functions would be more readdable.
 #
 # 4.
-#
+# Quite thoroughly. Nmes are appropriate; as described the commetents are somwehat bulky.
 #
 # 5.
-#
+# As stated before, they seem to align well. I'm not so familiar with rocket launching, yet I'm able to get a basic grasp of what each variable likely does just based of the names I've read.
 #
 # 6.
-#
+# The varibales seem to be appropriate for the task being described.
 #
 # 7.
+# Makes appropriate use of functions to simplify tasks. Said functions, especially the "main" function, seem rather bulky. As before, comments throughout the program could be shortned or have their placement rethought.
 #
-#
-# 8.
-#
+# 8. 
+# Currently I am unable to view visualizations as the code outputs a series of errors. Looking at the 'plot block' of the code, what seems to be written appears appropraite for the task. Potentially, given the high altitude of orbiting crafts, could vertical (and/or horizontal) positions be in Km rather than m?
 #
 # 9.
 #
 ########################################################################
+
 
