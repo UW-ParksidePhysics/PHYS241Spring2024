@@ -37,31 +37,32 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1. Does the code run without error?
+# Errors occur if user intentionally inputs non-numerical values into initial input prompt for velocity,
+# otherwise no python errors occur
+# 2. How understandable is the output?
+# Output lacks units to aid in understanding the actual values being computed
 #
+# 3. How readable is the code itself?
+# Code is readable
 #
-# 2.
+# 4. How clearly do the code comments describe the problem it is trying to solve?
+# No comments, very hard to establish the purpose of the code as a result
 #
+# 5. How clearly do the variable names relate to the concepts they concretize?
+# Variable names directly relate to values
 #
-# 3.
+# 6. How well does the range of variables capture the problem described?
+# Without knowing what specifically the 'problem' is in relation to the broader scope of project
+# (which is something involving newton's cradle) hard to know how variables capture the problem
+# 7. To what degree does the script follow a functional programming paradigm, packaging components etc.
+# Only PEP-8 errors are not double returning after function definition, but that seems like a minor issue
 #
-#
-# 4.
-#
-#
-# 5.
-#
-#
-# 6.
-#
-#
-# 7.
-#
-#
-# 8.
-#
-#
+# 8. How clearly do the visualizations show the solutions to the problem?
+# Visualizations display some graph of some sort, but graph is generated independent of initial input and thus
+# it is hard to quantify how "related" the graph is to the parameters of the problem, which is itself hard to know about
 # 9.
 #
 ########################################################################
+
 
