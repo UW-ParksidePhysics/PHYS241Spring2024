@@ -41,29 +41,34 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1. the code runs without error
 #
 #
-# 2.
+# 2. The output is rough, it shows two lines one blue one green one of which is going up one is going down,
+# however the bounds of the graph are not large enough to contain it
+# I would fix this by changing the axis limits to be way higher like 20,000
+#
+# 3. The code is organized decently well, in some areas such as Show plot it is a little redundant to do plt.show
+# and then follow it up with another plt.show
 #
 #
-# 3.
+# 4. the comments and variables are sufficient for what is needed it describes what force is used for what.
 #
 #
-# 4.
+# 5. Variable names are completely fine for what they represent, most are pretty simple such as g for gravity
+# elevator mass for elevator mass, most just describe perfectly what they encompass
 #
+# 6. The variables capture the problem in a lackluster way, the biggest issue is how the data is outputted
+# it just shows as two lines I have two major improvements i'd make, the first is increase the bounds of the data
+# by increasing the range of data it shows, my second change would be to add more data as right now it shows that
+# with a tension cable 5000kg is equal to a 5000kg counterweight, so if it were able to show what happens if one is
+# off balanced what happens to the forces
+# 7. The code follows a fine functional paradigm, what its trying to do is stated clearly and is completed within its
+# area and is commented correctly
 #
-# 5.
-#
-#
-# 6.
-#
-#
-# 7.
-#
-#
-# 8.
-#
+# 8. The visualizations do not show effectively the solutions to the problem, it is two lines and they dont fit into
+# the box, not only that but on the X-axis there is almost nothing but blank space, so it would be fine to shrink that
+# area. So as stated prior I would increase the range of the Y axis to be able to actually show the data
 #
 # 9.
 #
