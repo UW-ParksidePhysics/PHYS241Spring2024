@@ -114,28 +114,28 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1. Yes, the code runs without errors.
 #
 #
-# 2.
+# 2. The output is understandable. The instructions are clear for the user to input according values for the different variables.
 #
 #
-# 3.
+# 3. The code is a little challenging to read, but there are plenty of comments to describe what is happening/needs to be done.
 #
 #
-# 4.
+# 4. Very clearly. As an example the 'if else' statements were clear with how the input will result in signage changing.
 #
 #
-# 5.
+# 5. All valid to physical variable names (e.g. resistances).
 #
 #
-# 6.
+# 6. I am not too sure how well it is described, but I get the intention from what I know about these concepts that it is.
 #
 #
-# 7.
+# 7. Although the 'if else' statements were legible, it could be compressed. My first thought would be to run it as a for loop.
 #
 #
-# 8.
+# 8. There are no visualizations to be seen. There is not much that can be visualized with this problem.
 #
 #
 # 9.
