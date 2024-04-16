@@ -71,31 +71,42 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1.Runs fine
 #
 #
-# 2.
+# 2.Graph doesn't seem to have anything on it, perhaps you haven't gotten to it yet.
 #
 #
-# 3.
+# 3.Velocity appears to be doing calculations with x as the radian input for the trig functions a little unclear why
+# you would use x as the variable. The bigger problem I have with this is the fact that I am relatively sure that the
+# default for trig function inputs are in radians not degrees, as your notes seem to suggest.
 #
 #
-# 4.
+# 4.Text output is inconsistent in capitalization, mispelled height, and lacks units.
 #
 #
-# 5.
+# 5.Variable names make sense, except for x being used for radians.
 #
 #
-# 6.
+# 6.This is fine if for planets with little no atmosphere, but useless in any other context. I am suspicious of the
+# method you used to find the time max height is reached(should really be using the vertical component of velocity
+# alone for that, plus your relation ship is simply not true. Use acceleration_g * t = velocity_vertical to find when
+# acceleration due to gravity would cancel your vertical motion and by proxy the time you will have reached max
+# height.) , and I take issue with the assertion that the time for max distance would simply be twice the time for
+# max height.
 #
 #
-# 7.
+# 7.It is certainly compact, but I feel you simplified too much almost to the point of complete incoherence.
 #
 #
-# 8.
+# 8.What little you have done in your graphing process doesn't indicate your graphs are going to be readable,
+# axes seem unlabeled and even if it does plot everything your implementation won't be easy to disern what values
+# correspond to what plant.
 #
 #
-# 9.
-#
-########################################################################
+# 9.Honestly I think this program would greatly benefit from setting up kinematic framework, like handling 2D motion 
+# in time, meaning you should calculate the x and y components of acceleration, then use to get your velocity values,
+# and then use that to get your position values. From there you will have all the data, you would merely need to 
+# filter it in your outputs so only the critical points your interested in are included 
+# #######################################################################
 
