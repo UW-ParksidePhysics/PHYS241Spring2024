@@ -42,28 +42,28 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1. The code runs without any errors maps it clearly.
 #
 #
-# 2.
+# 2. The code is understandable straight forward no issues. It builds in order. A suggestion would be to print the values.
 #
 #
-# 3.
+# 3. The code is readable following the PEP-8 regulations for the most part.
 #
 #
-# 4.
+# 4. In the beginning they clearly state the intention of the code to graph the trejectory of a mass.
 #
 #
-# 5.
+# 5. I recognized all the variables from previous knowledge and from the code comments.
 #
 #
-# 6.
+# 6. The range of variables is perfect except I would add a table that shows both the x and y values.
 #
 #
-# 7.
+# 7. The script follows all the major components gravity, initial velocity, etc
 #
 #
-# 8.
+# 8. The visuals clearly show where the mass ends however a suggestion would be to include a point that calls out the x and y at the end.
 #
 #
 # 9.
