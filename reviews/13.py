@@ -103,28 +103,28 @@ plt.show()
 # Reviewer Comments
 ########################################################################
 #
-# 1.
+# 1.Yes it runs without error
 #
 #
-# 2.
+# 2.It is very understandable
 #
 #
-# 3.
+# 3.I could read it very well, so I do not what would make it more readable
 #
 #
-# 4.
+# 4.It is clear and very to the point
 #
 #
-# 5.
+# 5.The indents are not multiple of four
 #
 #
-# 6.
+# 6.It works very well
 #
 #
-# 7.
+# 7.I do not think the code would need to be majorly improved,
+#   the indentations are just a little off
 #
-#
-# 8.
+# 8.It is very clear so see the solution
 #
 #
 # 9.
