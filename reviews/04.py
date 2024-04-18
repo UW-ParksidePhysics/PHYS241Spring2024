@@ -135,13 +135,13 @@ else:
 # 5. All of the variable names are good and they relate to the concepts they concretize.
 #
 #
-# 6.
+# 6. The range of variables is good for this type of problem. There are no variables that you have that should be left out.
 #
 #
-# 7.
+# 7. The script does follow a functional programming paradigm. There are seperate functions and steps for everything that needs to be calculated.
 #
 #
-# 8.
+# 8. There are parts of the table that are unclear, specifically the the first and last velocities say N/A on the output. I believe you are still fixing those so it most likely just caused by that.
 #
 #
 ########################################################################
