@@ -126,13 +126,13 @@ else:
 # 2. The output of the code is fairly understandable. The title of the table produced is currently "Star of Output", which I think might be a typo. I would just make the table's name more detailed. 
 #
 #
-# 3.
+# 3. The code is very readable. It says that there are PEP-8 violations for your 5 functions you defined at the beginnning "E302 expected 2 blank lines, found 1". There are also some variable names and comments under your functions that are giving errors related to indentation.
 #
 #
 # 4. All of the current comments describe the code well, but I would add more comments, specifically where all of your functions are. It would help to decribe what each functions are doing. There are also some spelling and spacing mistakes in the last few comments.
 #
 #
-# 5.
+# 5. All of the variable names are good and they relate to the concepts they concretize.
 #
 #
 # 6.
@@ -143,8 +143,6 @@ else:
 #
 # 8.
 #
-#
-# 9.
 #
 ########################################################################
 
