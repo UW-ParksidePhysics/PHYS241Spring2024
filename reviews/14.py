@@ -60,33 +60,33 @@ plt.show()
 
 plt.show()
 ########################################################################
-# Reviewer Comments
+# Reviewer Comments: Reviewed by Nicolas Garcia
 ########################################################################
 #
 # 1.
-#
-#
+# Code runs smoothly without issue.
+# No errors.
 # 2.
-#
-#
+# The output is well organized and explained through comments.
+# Nothing stands out as difficult to understand.
 # 3.
-#
-#
+# The code is formatted well.
+# PEP-8 violation appears on the rotational matrix line.
 # 4.
-#
-#
+# The comments do a good job explaining the process and function of the code that runs the output.
+# The only comment I would add is something to describe the sin, cos np.array that is left as an example of how the final values were calculated. The example was left in the middle of the code without anything seperating it from the main code.
 # 5.
-#
-#
+# The variables are all labelled well in relation to the Ellipse.
+# Nothing stood out as hard to understand.
 # 6.
-#
-#
+# The variables all properly explain how they relate to the Ellipse.
+# Nothing to report.
 # 7.
-#
-#
+# The flow of the code does a good job at following a functional programming paradigm.
+# The code was strictired fine as is.
 # 8.
-#
-#
+# The visualization works properly but some extra comments explaining the purpose of the output and its relation to the code would make it easier to understand what's being displayed.
+# Only comments could make the visualization more ffective, the visualization itself works and looks great.
 # 9.
 #
 ########################################################################
