@@ -71,30 +71,33 @@ plt.show()
 ########################################################################
 #
 # 1.
-#
+# The code runs without error.
 #
 # 2.
-#
+# The output of the code looks understandable,
+# However, you have two variables t_data and T_data, it was confusing as I read the code.
 #
 # 3.
-#
+# PEP 8 is violated on many lines, read PyCharm to find out problematic lines.
+# lines 10, 11, 12, 22, 23, 25, 34, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 52, 102
+# Also there are typos on lines 25, 32, 38.
 #
 # 4.
-#
+# line 11, I am unclear what median water temp by data means/does.
 #
 # 5.
+# Again t_data and T_data are a bit similar/ confusing to tell apart, potential rename is t_hours and temp_data
+# T and t could be renamed, however this isn't necessary since time(t) and temp(T) are commonly referred as such.
 #
-#
-# 6.
-#
+# 6
+# I think your code uses an appropriate number of variables to convey Newton's Law of Cooling.
 #
 # 7.
-#
+# This code is fairly minimal, I don't have comments regarding how to make the modules work together more cohesively.
 #
 # 8.
-#
-#
-# 9.
+# The graph shows a decreasing linear function, this graph appears to demonstrate Newton's
+# Law of Cooling in a beautiful way. The domains/axes appear to be labeled and scaled in an appropriate manner.
 #
 ########################################################################
 
